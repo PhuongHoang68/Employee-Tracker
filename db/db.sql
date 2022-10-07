@@ -1,0 +1,3 @@
+CREATE DATABASE team;
+
+USE team;
