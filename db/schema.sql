@@ -10,7 +10,6 @@ CREATE TABLE role (
     title VARCHAR(30) NOT NULL,
     salary DECIMAL NOT NULL,
     department_id INTEGER NULL,
-    PRIMARY KEY (id) 
 );
 
 CREATE TABLE employee (
@@ -19,7 +18,6 @@ CREATE TABLE employee (
     last_name VARCHAR(30) NOT NULL,
     role_id INTEGER NULL,
     manager_id INTEGER NULL,
-    PRIMARY KEY (id)
 );
 
 SELECT * FROM department;
