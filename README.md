@@ -21,3 +21,4 @@ Users could follow the command line prompts to view/add/update department/role/e
 
 
 ## WALK-THRU VIDEO
+[Untitled_ Oct 17, 2022 9_26 PM.webm](https://user-images.githubusercontent.com/109717048/196321294-1977a4b1-e992-4f6f-b771-f88fc4d7f90b.webm)
